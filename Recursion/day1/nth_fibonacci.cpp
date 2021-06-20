@@ -19,7 +19,7 @@ int getNthfib(int num){
 int main(){
 
     int n;
-    cout<<"n = \t";
+    cout<<"n = ";
     cin>>n;
 
     int res = getNthfib(n);
